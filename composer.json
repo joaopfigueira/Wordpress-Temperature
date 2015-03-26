@@ -1,0 +1,17 @@
+{
+	"name": "joaofigueira/wordpress-temperature",
+	"description": "Displays the current temperature for a localtion in Celcius",
+	"license": "MIT",
+	"authors": [
+		{
+			"name": "João Paulo Figueira",
+			"email": "joao.figueira@webnation.pt",
+			"homepage": "http://joaofigueira.eu"
+		}
+	],
+	"autoload": {
+		"psr-4": {
+			"Temperature\\": "src"
+		}
+	}
+}
