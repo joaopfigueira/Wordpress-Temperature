@@ -12,7 +12,7 @@
 * [temperature country="pt" city="lisbon"]
 */
 
-include_once(__DIR__.'/vendor/autoload.php');
+include_once('autoload.php');
 
 use Temperature\Temperature;
 
